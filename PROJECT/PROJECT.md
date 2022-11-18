@@ -6,10 +6,6 @@
 <h1 align="fill" >
 </h1>
 
-[![](https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/graphs/contributors)
-[![](https://img.shields.io/github/traffic/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/graphs/traffic)
-[![](https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-Project-28819-1660117082/stargazers)
-[![](https://img.shields.io/github/issues/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/issues)
   
 <br /> 
   
