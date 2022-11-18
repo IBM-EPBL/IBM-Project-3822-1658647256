@@ -1,5 +1,5 @@
 
-![SmartFarmer]([https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/PROJECT/SmartFarmer.png])
+![SmartFarmer](https://raw.githubusercontent.com/IBM-EPBL/IBM-Project-3822-1658647256/main/PROJECT/SmartFarmer.png)
 <br>
 <div align="center">
 <h1 align="fill" >
