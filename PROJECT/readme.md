@@ -56,33 +56,33 @@
         <ul>
         <li><a href="#-DESIGN-PHASE-01">DESIGN PHASE 01</a></li>
            <ul>
-        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Solution%20Architecture">SOLUTION ARCHITECTURE</a></li>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Project%20Design%20and%20Planning/Project%20Design%20phase-1/Solution%20Architecture.pdf">SOLUTION ARCHITECTURE</a></li>
         </ul>
              <ul>
-        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Problem%20Solution%20Fit">PROBLEM SOLUTION FIT</a></li>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Project%20Design%20and%20Planning/Project%20Design%20phase-1/Problem_Solution_fit.pdf">PROBLEM SOLUTION FIT</a></li>
         </ul>
              <ul>
-        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Proposed%20Solution">PROPOSED SOLUTION</a></li>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Project%20Design%20and%20Planning/Project%20Design%20phase-1/Proposed%20Solution.pdf">PROPOSED SOLUTION</a></li>
         </ul>
         <li><a href="#-DESIGN-PHASE-02">DESIGN PHASE 02</a></li>
            <ul>
-        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Customer%20Journey%20Map">CUSTOMER JOURNEY MAP</a></li>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Project%20Design%20and%20Planning/Project%20Design%20Phase-2/Customer%20Journey%20Map.pdf">CUSTOMER JOURNEY MAP</a></li>
         </ul>
              <ul>
-        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Data%20Flow%20Diagram%20%26%20User%20Stories">DATA FLOW DIAGRAM & USER STORIES</a></li>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Project%20Design%20and%20Planning/Project%20Design%20Phase-2/Data%20Flow%20Diagrams%20and%20User%20Stories.pdf">DATA FLOW DIAGRAM & USER STORIES</a></li>
         </ul>
              <ul>
-        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Solution%20Requirements">SOLUTION REQUIREMENTS</a></li>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Project%20Design%20and%20Planning/Project%20Design%20Phase-2/Solution%20Requirements.pdf">SOLUTION REQUIREMENTS</a></li>
         </ul>
         <ul>
-        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Stack">TECHNOLOGY STACK</a></li>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Project%20Design%20and%20Planning/Project%20Design%20Phase-2/Technology%20Architecture.pdf">TECHNOLOGY STACK</a></li>
         </ul>
          </ul>
         </u1>
         <li><a href="#-IDEATION-PHASE">PROJECT PLANNING</a></li>
            <ul>
-             <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20%26%20Activity%20Plan">MILESTONE & ACTIVITY LIST</a></li>
-              <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan">SPRINT DELIVERY PLAN</a></li>
+             <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Project%20Design%20and%20Planning/Project%20Planning%20Phase/Milestone%20%26%20Activity%20List.pdf">MILESTONE & ACTIVITY LIST</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Project%20Design%20and%20Planning/Project%20Planning%20Phase/Sprint%20Delivery%20Plan.pdf">SPRINT DELIVERY PLAN</a></li>
           </ul>
           </ul>
    <li>
@@ -90,13 +90,13 @@
         </li>
         <ul>
         <li><a
-                    href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20%26%20Activity%20Plan">SPRINT 1</a></li>
+                    href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/tree/main/PROJECT-DEVELOPMENT/SPRINT-1">SPRINT 1</a></li>
             <li><a
-                    href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan">SPRINT 2</a></li>
+                    href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/tree/main/PROJECT-DEVELOPMENT/SPRINT-2">SPRINT 2</a></li>
                     <li><a
-                    href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20%26%20Activity%20Plan">SPRINT 3</a></li>
+                    href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/tree/main/PROJECT-DEVELOPMENT/SPRINT-3">SPRINT 3</a></li>
             <li><a
-                    href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan">SPRINT 4</a></li>
+                    href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/PROJECT-DEVELOPMENT/Sprint--4.pdf">SPRINT 4</a></li>
         </ul>
         <li><a href="#-project-description">FINAL DELIVERABLES</a></li>
   </ol>
