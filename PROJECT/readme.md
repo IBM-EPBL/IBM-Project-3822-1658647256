@@ -47,10 +47,10 @@
      <ul>
         <li><a href="#-IDEATION-PHASE">IDEATION PHASE</a></li>
            <ul>
-             <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey">LITERATURE SURVEY</a></li>
-              <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statement">PROBLEM STATEMENT</a></li>
-              <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map">EMPATHY MAP</a></li>
-              <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming">BRAINSTORM</a></li>
+             <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Ideation%20phase/Literature%20survey.pdf">LITERATURE SURVEY</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Ideation%20phase/Problem%20Statements.pdf">PROBLEM STATEMENT</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Ideation%20phase/Empathy%20Map.pdf">EMPATHY MAP</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/blob/main/Ideation%20phase/Brainstrom%20%26%20Idea%20Priortization.pdf">BRAINSTORM</a></li>
           </ul>
         <li><a href="#-DESIGN-PHASE-PHASE">DESIGN PHASE</a></li>
         <ul>
