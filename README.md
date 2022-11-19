@@ -1,4 +1,5 @@
 #IBM-Project-3822-1658647256!
+![SmartFarmer](https://raw.githubusercontent.com/IBM-EPBL/IBM-Project-3822-1658647256/main/PROJECT/SmartFarmer.png)
 ![Smart IOT application]
 # SmartFarmer IOT Enabled Smart Farming Application:palm_tree:
 :rocket:<b>TECHNOLOGY : INTERNET OF THINGS </b>           
