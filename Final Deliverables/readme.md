@@ -101,7 +101,6 @@
         <li><a href="https://github.com/IBM-EPBL/IBM-Project-3822-1658647256/tree/main/Final%20Deliverables">FINAL DELIVERABLES</a></li>
   </ol>
   
-</details>
   
 
 
