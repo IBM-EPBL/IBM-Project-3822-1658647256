@@ -1,3 +1,4 @@
+
 #IBM-Project-3822-1658647256!
 ![SmartFarmer](https://raw.githubusercontent.com/IBM-EPBL/IBM-Project-3822-1658647256/main/PROJECT/SmartFarmer.png)
 ![Smart IOT application]
@@ -37,3 +38,6 @@
 [![Git](https://img.shields.io/badge/-IBM-%23F05032?style=flat-square&logo=IBM&logoColor=%23ffffff)](https://www.ibm.com/in-en/cloud)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+
+📫 How to reach Us <a href = "mailto: gopisushil143@gmail.com">Connect with Email</a>
+![Snake animation](https://github.com/gogulkrish/snak-/blob/main/rafaballerini-output/github-contribution-grid-snake.svg)
