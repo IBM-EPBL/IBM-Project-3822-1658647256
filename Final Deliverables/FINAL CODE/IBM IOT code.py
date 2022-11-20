@@ -71,3 +71,4 @@ while True:
 
 # Disconnect the device and application from the cloud
 deviceCli.disconnect()
+#END OF THE CODE
